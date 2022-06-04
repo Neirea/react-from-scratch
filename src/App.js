@@ -4,7 +4,7 @@ import "./index.css";
 export default function App() {
 	return (
 		<div>
-			<h1>React from Scratch</h1>
+			<h1>Hello Darkness my old friend</h1>
 		</div>
 	);
 }
